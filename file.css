@@ -1,0 +1,13 @@
+h1{
+    background-color: cadetblue;
+    color: aliceblue;
+    margin-top: 0px;
+    text-align: center;
+}
+body{
+    background-color: rgb(195, 165, 223);
+    color: white;
+}
+ul li{
+    list-style-type:square;
+}
